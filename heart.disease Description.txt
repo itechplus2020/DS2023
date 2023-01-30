@@ -1,0 +1,9 @@
+The heart dataset contains a data that was collected from sample of 500 cities, which include the following features:
+
+1) cityID
+2) biking: percentage of people biking to work each day
+3) smoking: percentage of people smoking
+4) heart.disease: ercentage of people with heart disease 
+
+
+heart.disease is the value to predict using linear regression
