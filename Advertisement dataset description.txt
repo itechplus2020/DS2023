@@ -1,0 +1,5 @@
+Social Network Ads
+
+dataset contains some information about some users in the social network, including 
+their User ID, Gender, Age, and Estimated Salary. The last column Purchased (output column) 
+of the dataset is a vector of booleans describing whether or not each individual ended up clicking on the advertisement (0 = False, 1 = True). 

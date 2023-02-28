@@ -1,0 +1,9 @@
+The dataset contains several parameters which are considered important during the application for Masters Programs.
+
+
+The parameters included are :
+
+1) GRE Scores 
+2) University Rating 
+3) Undergraduate GPA 
+4) Admit ( Output variable )
